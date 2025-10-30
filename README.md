@@ -1,6 +1,7 @@
 # Multi-Agent Research Assistant
 
 A sophisticated Agent-to-Agent (A2A) system built with LangChain and LangGraph that collaborates to produce comprehensive research reports.
+.
 ![Agent system Architecture](assets/research_graph.png)
 
 ##  Project Structure
